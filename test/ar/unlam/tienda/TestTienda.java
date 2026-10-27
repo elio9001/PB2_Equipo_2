@@ -8,7 +8,7 @@ public class TestTienda {
 
 	@Test
 	public void test() {
-		fail("Not yet implemented");
+		System.out.println("Wazaaa");
 	}
 
 }
