@@ -10,6 +10,7 @@ public class TestTienda {
 	public void test() {
 		System.out.println("Wazaaa");
 		System.out.println("hola");
+		System.out.println("123");
 	}
 
 }
